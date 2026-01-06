@@ -1,0 +1,21 @@
+Git Basics for Beginners
+
+This file explains how to use Git to track and save changes in a project.
+
+Basic Workflow
+
+1. Check the status of your repository
+   git status: This shows which files have been changed or added.
+
+2. Stage changes
+   git add <filename>: This prepares your changes to be committed.
+
+3. Commit changes
+   git commit -m "Add a meaningful message": Commits save your staged changes
+   to the local repository with a message explaining what changed.
+
+4. Push changes to a remote repository
+   git push
+
+5. Pull requests 
+   git pull: Pull requests are proposals to merge code changes into a project. 
