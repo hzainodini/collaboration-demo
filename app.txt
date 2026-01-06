@@ -1,5 +1,5 @@
 Collaboration Demo Project
-Version 1.0
+Version 1.2
 
 This project is designed to help beginners learn Git by practicing 
 both solo and collaborative workflows. 
