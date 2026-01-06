@@ -1,2 +1,8 @@
 Collaboration Demo Project
 Version 1.0
+
+This project is designed to help beginners learn Git by practicing 
+both solo and collaborative workflows. 
+It includes the basic commands to save changes and tips for working
+together in a team.
+The goal is to build confidence in using Git for real-world development scenarios.
